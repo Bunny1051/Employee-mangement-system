@@ -1,0 +1,30 @@
+[
+    {
+        "EmployeeName": "ganesh",
+        "EmployeeId": 2,
+        "EmployeeEmail": "lisaa@gmail.com",
+        "MobileNumber": "1244970979",
+        "IsActive": false,
+        "RegisteredOn": "2021-10-12T13:12:15.493Z",
+        "Departments": [
+            1,
+            2,
+            3
+        ],
+        "EmpId": "xyz",
+        "LastModifiedOn": "2021-11-12T13:18:54.636Z"
+    },
+    {
+        "EmployeeName": "lisa",
+        "EmployeeId": 1,
+        "EmployeeEmail": "lisa@gmail.com",
+        "MobileNumber": "1244970977",
+        "IsActive": false,
+        "RegisteredOn": "2021-11-12T13:08:19.060Z",
+        "Departments": [
+            1,
+            2
+        ],
+        "EmpId": "9b074b40-43b9-11ec-bfe4-61ffe0a3e6fc"
+    }
+]
